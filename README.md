@@ -1,4 +1,6 @@
 # CodeNerve.github.io
 Terminal based portfolio website for CodeNerve
 
-<!-- GitAds-Verify: WM2WSWVNHZGZK4LTX2OQXN4CCRNYAN78 -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/codenerve.github.io@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/codenerve.github.io@github)
+
